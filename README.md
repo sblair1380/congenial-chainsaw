@@ -1,2 +1,1 @@
-# congenial-chainsaw
-html.com business page
+# Congenital Chainsaw Project\n\nThis is the repository for the Congenital Chainsaw project. It's currently in its early stages, and this README will be updated as the project progresses.\n\n## Setup\n\n- Clone the repository.\n- Follow instructions to come.\n\n## Contributing\n\nFeel free to open issues or submit pull requests.
